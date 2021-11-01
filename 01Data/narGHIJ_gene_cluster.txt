@@ -1,0 +1,208 @@
+molecule	abbre	gene	oldgene		start	end	strand	direction	description
+Calidithermus_chliarophilus_DSM_9957T	G8	narG	Calidithermus_chliarophilus_DSM_9957T_1256	KE387023.1_1256	1353246	1352554	reverse	-1	narG
+Calidithermus_chliarophilus_DSM_9957T	G8	narH	Calidithermus_chliarophilus_DSM_9957T_1257	KE387023.1_1257	1353440	1354075	forward	1	narH
+Calidithermus_chliarophilus_DSM_9957T	G8	narJ	Calidithermus_chliarophilus_DSM_9957T_1258	KE387023.1_1258	1354092	1355000	forward	1	narJ
+Calidithermus_chliarophilus_DSM_9957T	G8	narI	Calidithermus_chliarophilus_DSM_9957T_1259	KE387023.1_1259	1355022	1355789	forward	1	narI
+Calidithermus_chliarophilus_DSM_9957T	G8	narK	Calidithermus_chliarophilus_DSM_9957T_1260	KE387023.1_1260	1355792	1356220	forward	1	narK
+Calidithermus_chliarophilus_DSM_9957T	G8	MFS transporter	Calidithermus_chliarophilus_DSM_9957T_1261	KE387023.1_1261	1356360	1356223	reverse	-1	MFS transporter
+Calidithermus_roseus_NBRC_110900T	G6	MFS transporter	Calidithermus_roseus_NBRC_110900T_2194	QWLA01000041.1_22	-20648	-19290	reverse	-1	MFS transporter
+Calidithermus_roseus_NBRC_110900T	G6	narK	Calidithermus_roseus_NBRC_110900T_2195	QWLA01000041.1_23	-21991	-20648	reverse	-1	narK
+Calidithermus_roseus_NBRC_110900T	G6	narI	Calidithermus_roseus_NBRC_110900T_2196	QWLA01000041.1_24	-22748	-21978	reverse	-1	narI
+Calidithermus_roseus_NBRC_110900T	G6	narJ	Calidithermus_roseus_NBRC_110900T_2197	QWLA01000041.1_25	-23329	-22745	reverse	-1	narJ
+Calidithermus_roseus_NBRC_110900T	G6	narH	Calidithermus_roseus_NBRC_110900T_2198	QWLA01000041.1_26	-24850	-23339	reverse	-1	narH
+Calidithermus_roseus_NBRC_110900T	G6	narG	Calidithermus_roseus_NBRC_110900T_2199	QWLA01000041.1_27	-28533	-24931	reverse	-1	narG
+Calidithermus_roseus_NBRC_110900T	G6	Cytc	Calidithermus_roseus_NBRC_110900T_2200	QWLA01000041.1_28	-29336	-28530	reverse	-1	Cytc
+Calidithermus_roseus_NBRC_110900T	G6	hypothetical protein	Calidithermus_roseus_NBRC_110900T_2201	QWLA01000041.1_29	-29536	-29333	reverse	-1	hypothetical protein
+Calidithermus_terrae_DSM_26712T	G7	narI	Calidithermus_terrae_DSM_26712T_2503	QXDL01000033.1_1	-707	-3	reverse	-1	narI
+Calidithermus_terrae_DSM_26712T	G7	narJ	Calidithermus_terrae_DSM_26712T_2504	QXDL01000033.1_2	-1267	-704	reverse	-1	narJ
+Calidithermus_terrae_DSM_26712T	G7	narH	Calidithermus_terrae_DSM_26712T_2505	QXDL01000033.1_3	-2785	-1277	reverse	-1	narH
+Calidithermus_terrae_DSM_26712T	G7	narG	Calidithermus_terrae_DSM_26712T_2506	QXDL01000033.1_4	-6461	-2865	reverse	-1	narG
+Calidithermus_terrae_DSM_26712T	G7	Cytc	Calidithermus_terrae_DSM_26712T_2507	QXDL01000033.1_5	-7279	-6458	reverse	-1	Cytc
+Calidithermus_terrae_DSM_26712T	G7	hypothetical protein	Calidithermus_terrae_DSM_26712T_2508	QXDL01000033.1_6	-7539	-7276	reverse	-1	hypothetical protein
+Calidithermus_terrae_DSM_26712T	G7	hypothetical protein	Calidithermus_terrae_DSM_26712T_2509	QXDL01000033.1_7	-9804	-8224	reverse	-1	Modification methylase Eco57IB
+Calidithermus_terrae_DSM_26712T	G7	hypothetical protein	Calidithermus_terrae_DSM_26712T_2510	QXDL01000033.1_8	-10703	-9801	reverse	-1	XamI
+Calidithermus_terrae_DSM_26712T	G7	GAF	Calidithermus_terrae_DSM_26712T_2511	QXDL01000033.1_9	-11041	-13050	forward	1	Bacterial transcriptional activator domain protein
+Calidithermus_terrae_DSM_26712T	G7	Crp/Fnr	Calidithermus_terrae_DSM_26712T_2512	QXDL01000033.1_10	-13047	-13727	forward	1	Crp/Fnr family transcriptional regulator
+Calidithermus_timidus_DSM_17022T	G5	hypothetical protein	Calidithermus_timidus_DSM_17022T_2932	KB890701.1_153	163783	163986	forward	1	hypothetical protein
+Calidithermus_timidus_DSM_17022T	G5	Cytc	Calidithermus_timidus_DSM_17022T_2933	KB890701.1_154	163983	164807	forward	1	Cytc
+Calidithermus_timidus_DSM_17022T	G5	narG	Calidithermus_timidus_DSM_17022T_2934	KB890701.1_155	164804	168406	forward	1	narG
+Calidithermus_timidus_DSM_17022T	G5	narH	Calidithermus_timidus_DSM_17022T_2935	KB890701.1_156	168459	169967	forward	1	narH
+Calidithermus_timidus_DSM_17022T	G5	narJ	Calidithermus_timidus_DSM_17022T_2936	KB890701.1_157	169977	170561	forward	1	narJ
+Calidithermus_timidus_DSM_17022T	G5	narI	Calidithermus_timidus_DSM_17022T_2937	KB890701.1_158	170558	171328	forward	1	narI
+Calidithermus_timidus_DSM_17022T	G5	narK	Calidithermus_timidus_DSM_17022T_2938	KB890701.1_159	171315	172658	forward	1	narK
+Calidithermus_timidus_DSM_17022T	G5	MFS transporter	Calidithermus_timidus_DSM_17022T_2939	KB890701.1_160	172658	174013	forward	1	MFS transporter
+Marinithermus_hydrothermalis_DSM_14884T	G1	narK	Marinithermus_hydrothermalis_DSM_14884T_1850	CP002630.1_1850	-1845929	-1844619	reverse	-1	narK
+Marinithermus_hydrothermalis_DSM_14884T	G1	narI	Marinithermus_hydrothermalis_DSM_14884T_1851	CP002630.1_1851	-1846628	-1845942	reverse	-1	narI
+Marinithermus_hydrothermalis_DSM_14884T	G1	narJ	Marinithermus_hydrothermalis_DSM_14884T_1852	CP002630.1_1852	-1847143	-1846625	reverse	-1	narJ
+Marinithermus_hydrothermalis_DSM_14884T	G1	narH	Marinithermus_hydrothermalis_DSM_14884T_1853	CP002630.1_1853	-1848654	-1847143	reverse	-1	narH
+Marinithermus_hydrothermalis_DSM_14884T	G1	narG	Marinithermus_hydrothermalis_DSM_14884T_1854	CP002630.1_1854	-1852327	-1848668	reverse	-1	narG
+Marinithermus_hydrothermalis_DSM_14884T	G1	Cytc	Marinithermus_hydrothermalis_DSM_14884T_1855	CP002630.1_1855	-1853121	-1852324	reverse	-1	Cytc
+Marinithermus_hydrothermalis_DSM_14884T	G1	hypothetical protein	Marinithermus_hydrothermalis_DSM_14884T_1856	CP002630.1_1856	-1853306	-1853118	reverse	-1	hypothetical protein
+Marinithermus_hydrothermalis_DSM_14884T	G1	GAF	Marinithermus_hydrothermalis_DSM_14884T_1857	CP002630.1_1857	-1853396	-1855366	forward	1	GAF
+Meiothermus_granaticius_NBRC_107808T	G9	MFS transporter	Meiothermus_granaticius_NBRC_107808T_300	BJXM01000002.1_1	-1404	-46	reverse	-1	MFS transporter
+Meiothermus_granaticius_NBRC_107808T	G9	narK	Meiothermus_granaticius_NBRC_107808T_301	BJXM01000002.1_2	-2738	-1404	reverse	-1	narK
+Meiothermus_granaticius_NBRC_107808T	G9	narI	Meiothermus_granaticius_NBRC_107808T_302	BJXM01000002.1_3	-3495	-2725	reverse	-1	narI
+Meiothermus_granaticius_NBRC_107808T	G9	narJ	Meiothermus_granaticius_NBRC_107808T_303	BJXM01000002.1_4	-4082	-3492	reverse	-1	narJ
+Meiothermus_granaticius_NBRC_107808T	G9	narH	Meiothermus_granaticius_NBRC_107808T_304	BJXM01000002.1_5	-5593	-4085	reverse	-1	narH
+Meiothermus_granaticius_NBRC_107808T	G9	narG	Meiothermus_granaticius_NBRC_107808T_305	BJXM01000002.1_6	-9278	-5688	reverse	-1	narG
+Meiothermus_granaticius_NBRC_107808T	G9	Cytc	Meiothermus_granaticius_NBRC_107808T_306	BJXM01000002.1_7	-10075	-9275	reverse	-1	Cytc
+Meiothermus_granaticius_NBRC_107808T	G9	hypothetical protein	Meiothermus_granaticius_NBRC_107808T_307	BJXM01000002.1_8	-10275	-10072	reverse	-1	hypothetical protein
+Meiothermus_granaticius_NBRC_107808T	G9	GAF	Meiothermus_granaticius_NBRC_107808T_308	BJXM01000002.1_9	-12340	-10376	forward	1	winged helix-turn-helix domain-containing protein
+Meiothermus_granaticius_NBRC_107808T	G9	Crp/Fnr	Meiothermus_granaticius_NBRC_107808T_309	BJXM01000002.1_10	-13043	-12375	forward	1	Crp/Fnr family transcriptional regulator
+Meiothermus_hypogaeus_DSM_23238T	G10	hypothetical protein	Meiothermus_hypogaeus_DSM_23238T_3215	QWKY01000077.1_5	-5759	-5247	reverse	-1	carbonic anhydrase
+Meiothermus_hypogaeus_DSM_23238T	G10	narK	Meiothermus_hypogaeus_DSM_23238T_3216	QWKY01000077.1_6	-7114	-5768	reverse	-1	narK
+Meiothermus_hypogaeus_DSM_23238T	G10	narI	Meiothermus_hypogaeus_DSM_23238T_3217	QWKY01000077.1_7	-7874	-7101	reverse	-1	narI
+Meiothermus_hypogaeus_DSM_23238T	G10	narJ	Meiothermus_hypogaeus_DSM_23238T_3218	QWKY01000077.1_8	-8461	-7871	reverse	-1	narJ
+Meiothermus_hypogaeus_DSM_23238T	G10	narH	Meiothermus_hypogaeus_DSM_23238T_3219	QWKY01000077.1_9	-9971	-8463	reverse	-1	narH
+Meiothermus_hypogaeus_DSM_23238T	G10	narG	Meiothermus_hypogaeus_DSM_23238T_3220	QWKY01000077.1_10	-13578	-9988	reverse	-1	narG
+Meiothermus_hypogaeus_DSM_23238T	G10	Cytc	Meiothermus_hypogaeus_DSM_23238T_3221	QWKY01000077.1_11	-14036	-13575	reverse	-1	Cytc
+Meiothermus_silvanus_DSM_9946T	G4	MFS transporter	Meiothermus_silvanus_DSM_9946T_250	CP002042.1_250	-255770	-254409	reverse	-1	MFS transporter
+Meiothermus_silvanus_DSM_9946T	G4	narK	Meiothermus_silvanus_DSM_9946T_251	CP002042.1_251	-257104	-255770	reverse	-1	narK
+Meiothermus_silvanus_DSM_9946T	G4	narI	Meiothermus_silvanus_DSM_9946T_252	CP002042.1_252	-257837	-257091	reverse	-1	narI
+Meiothermus_silvanus_DSM_9946T	G4	narJ	Meiothermus_silvanus_DSM_9946T_253	CP002042.1_253	-258373	-257840	reverse	-1	narJ
+Meiothermus_silvanus_DSM_9946T	G4	narH	Meiothermus_silvanus_DSM_9946T_254	CP002042.1_254	-259942	-258434	reverse	-1	narH
+Meiothermus_silvanus_DSM_9946T	G4	narG	Meiothermus_silvanus_DSM_9946T_255	CP002042.1_255	-263606	-260007	reverse	-1	narG
+Meiothermus_silvanus_DSM_9946T	G4	Cytc	Meiothermus_silvanus_DSM_9946T_256	CP002042.1_256	-264427	-263603	reverse	-1	Cytc
+Meiothermus_silvanus_DSM_9946T	G4	hypothetical protein	Meiothermus_silvanus_DSM_9946T_257	CP002042.1_257	-264627	-264424	reverse	-1	hypothetical protein
+Meiothermus_silvanus_DSM_9946T	G4	GAF	Meiothermus_silvanus_DSM_9946T_258	CP002042.1_258	-264714	-266699	forward	1	GAF
+Meiothermus_silvanus_DSM_9946T	G4	hypothetical protein	Meiothermus_silvanus_DSM_9946T_259	CP002042.1_259	-267249	-266785	reverse	-1	hypothetical protein
+Oceanithermus_desulfurans_DSM_15757T	G3	gpsA	Oceanithermus_desulfurans_DSM_15757T_202	JACHEZ010000001.1_202	-183803	-184780	forward	1	NAD(P)-dependent glycerol-3-phosphate dehydrogenase
+Oceanithermus_desulfurans_DSM_15757T	G3	narK	Oceanithermus_desulfurans_DSM_15757T_203	JACHEZ010000001.1_203	-186136	-184826	reverse	-1	narK
+Oceanithermus_desulfurans_DSM_15757T	G3	narI	Oceanithermus_desulfurans_DSM_15757T_204	JACHEZ010000001.1_204	-186847	-186158	reverse	-1	narI
+Oceanithermus_desulfurans_DSM_15757T	G3	narJ	Oceanithermus_desulfurans_DSM_15757T_205	JACHEZ010000001.1_205	-187344	-186844	reverse	-1	narJ
+Oceanithermus_desulfurans_DSM_15757T	G3	narH	Oceanithermus_desulfurans_DSM_15757T_206	JACHEZ010000001.1_206	-188860	-187349	reverse	-1	narH
+Oceanithermus_desulfurans_DSM_15757T	G3	narG	Oceanithermus_desulfurans_DSM_15757T_207	JACHEZ010000001.1_207	-192464	-188871	reverse	-1	narG
+Oceanithermus_desulfurans_DSM_15757T	G3	Cytc	Oceanithermus_desulfurans_DSM_15757T_208	JACHEZ010000001.1_208	-193249	-192461	reverse	-1	cytochrome c
+Oceanithermus_desulfurans_DSM_15757T	G3	GAF	Oceanithermus_desulfurans_DSM_15757T_209	JACHEZ010000001.1_209	-193340	-195268	forward	1	GAF
+Oceanithermus_desulfurans_DSM_15757T	G3	hypothetical protein	Oceanithermus_desulfurans_DSM_15757T_210	JACHEZ010000001.1_210	-195541	-195275	reverse	-1	hypothetical protein
+Oceanithermus_profundus_DSM_14977T	G2	GAF	Oceanithermus_profundus_DSM_14977T_1415	CP002361.1_1415	1451592	1449664	reverse	-1	GAF
+Oceanithermus_profundus_DSM_14977T	G2	Cytc	Oceanithermus_profundus_DSM_14977T_1416	CP002361.1_1416	1451683	1452471	forward	1	cytochrome c
+Oceanithermus_profundus_DSM_14977T	G2	narG	Oceanithermus_profundus_DSM_14977T_1417	CP002361.1_1417	1452468	1456061	forward	1	narG
+Oceanithermus_profundus_DSM_14977T	G2	narH	Oceanithermus_profundus_DSM_14977T_1418	CP002361.1_1418	1456072	1457583	forward	1	narH
+Oceanithermus_profundus_DSM_14977T	G2	narJ	Oceanithermus_profundus_DSM_14977T_1419	CP002361.1_1419	1457584	1458084	forward	1	narJ
+Oceanithermus_profundus_DSM_14977T	G2	narI	Oceanithermus_profundus_DSM_14977T_1420	CP002361.1_1420	1458081	1458770	forward	1	narI
+Oceanithermus_profundus_DSM_14977T	G2	narK	Oceanithermus_profundus_DSM_14977T_1421	CP002361.1_1421	1458792	1460102	forward	1	narK
+Oceanithermus_profundus_DSM_14977T	G2	gpsA	Oceanithermus_profundus_DSM_14977T_1422	CP002361.1_1422	1460148	1461125	reverse	-1	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+Thermus_amyloliquefaciens_YIM_77409T	G21	MFS transporter	Thermus_amyloliquefaciens_YIM_77409T_1394	sequence1_1394	-1350926	-1349595	reverse	-1	MFS transporter
+Thermus_amyloliquefaciens_YIM_77409T	G21	narK	Thermus_amyloliquefaciens_YIM_77409T_1395	sequence1_1395	-1351054	-1350920	reverse	-1	narK
+Thermus_amyloliquefaciens_YIM_77409T	G21	narK	Thermus_amyloliquefaciens_YIM_77409T_1396	sequence1_1396	-1352250	-1351051	reverse	-1	narK
+Thermus_amyloliquefaciens_YIM_77409T	G21	narI	Thermus_amyloliquefaciens_YIM_77409T_1397	sequence1_1397	-1352931	-1352254	reverse	-1	narI
+Thermus_amyloliquefaciens_YIM_77409T	G21	narJ	Thermus_amyloliquefaciens_YIM_77409T_1398	sequence1_1398	-1353447	-1352935	reverse	-1	narJ
+Thermus_amyloliquefaciens_YIM_77409T	G21	narH	Thermus_amyloliquefaciens_YIM_77409T_1399	sequence1_1399	-1354993	-1353458	reverse	-1	narH
+Thermus_amyloliquefaciens_YIM_77409T	G21	narG	Thermus_amyloliquefaciens_YIM_77409T_1400	sequence1_1400	-1358599	-1355009	reverse	-1	narG
+Thermus_amyloliquefaciens_YIM_77409T	G21	Cytc	Thermus_amyloliquefaciens_YIM_77409T_1401	sequence1_1401	-1359396	-1358602	reverse	-1	cytochrome c
+Thermus_amyloliquefaciens_YIM_77409T	G21	GAF	Thermus_amyloliquefaciens_YIM_77409T_1402	sequence1_1402	-1359493	-1361301	forward	1	GAF domain-containing protein
+Thermus_amyloliquefaciens_YIM_77409T	G21	Crp/Fnr	Thermus_amyloliquefaciens_YIM_77409T_1403	sequence1_1403	-1361304	-1361957	forward	1	Crp/Fnr family transcriptional regulator
+Thermus_antranikianii_DSM_12462T	G23	Crp/Fnr	Thermus_antranikianii_DSM_12462T_1268	sequence06_7	6092	5439	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_antranikianii_DSM_12462T	G23	GAF	Thermus_antranikianii_DSM_12462T_1269	sequence06_8	7907	6096	reverse	-1	GAF
+Thermus_antranikianii_DSM_12462T	G23	Cytc	Thermus_antranikianii_DSM_12462T_1270	sequence06_9	8004	8798	forward	1	Cytc
+Thermus_antranikianii_DSM_12462T	G23	narG	Thermus_antranikianii_DSM_12462T_1271	sequence06_10	8801	12391	forward	1	narG
+Thermus_antranikianii_DSM_12462T	G23	narH	Thermus_antranikianii_DSM_12462T_1272	sequence06_11	12407	13942	forward	1	narH
+Thermus_antranikianii_DSM_12462T	G23	narJ	Thermus_antranikianii_DSM_12462T_1273	sequence06_12	13952	14464	forward	1	narJ
+Thermus_antranikianii_DSM_12462T	G23	narI	Thermus_antranikianii_DSM_12462T_1274	sequence06_13	14468	15145	forward	1	narI
+Thermus_antranikianii_DSM_12462T	G23	narK	Thermus_antranikianii_DSM_12462T_1275	sequence06_14	15149	16480	forward	1	narK
+Thermus_antranikianii_DSM_12462T	G23	MFS transporter	Thermus_antranikianii_DSM_12462T_1276	sequence06_15	16474	17805	forward	1	MFS transporter
+Thermus_arciformis_CGMCC_1.6992T	G12	Crp/Fnr	Thermus_arciformis_CGMCC_1.6992T_1379	sequence16_27	17563	16922	reverse	-1	CRP/FNR family transcriptional regulator, anaerobic regulatory protein
+Thermus_arciformis_CGMCC_1.6992T	G12	GAF	Thermus_arciformis_CGMCC_1.6992T_1380	sequence16_28	19381	17582	reverse	-1	GAF domain-containing protein
+Thermus_arciformis_CGMCC_1.6992T	G12	Cytc	Thermus_arciformis_CGMCC_1.6992T_1381	sequence16_29	19477	20268	forward	1	c-type cytochrome
+Thermus_arciformis_CGMCC_1.6992T	G12	narG	Thermus_arciformis_CGMCC_1.6992T_1382	sequence16_30	20271	23861	forward	1	narG
+Thermus_arciformis_CGMCC_1.6992T	G12	narH	Thermus_arciformis_CGMCC_1.6992T_1383	sequence16_31	23873	25408	forward	1	narH
+Thermus_arciformis_CGMCC_1.6992T	G12	narJ	Thermus_arciformis_CGMCC_1.6992T_1384	sequence16_32	25418	25933	forward	1	narJ
+Thermus_arciformis_CGMCC_1.6992T	G12	narI	Thermus_arciformis_CGMCC_1.6992T_1385	sequence16_33	25937	26614	forward	1	narI
+Thermus_arciformis_CGMCC_1.6992T	G12	narK	Thermus_arciformis_CGMCC_1.6992T_1386	sequence16_34	26618	27949	forward	1	narK
+Thermus_arciformis_CGMCC_1.6992T	G12	MFS transporter	Thermus_arciformis_CGMCC_1.6992T_1387	sequence16_35	27943	29274	forward	1	MFS transporter
+Thermus_brockianus_GE-1T	G17	MFS transporter	Thermus_brockianus_GE-1T_402	sequence1_402	-394816	-393485	reverse	-1	MFS transporter
+Thermus_brockianus_GE-1T	G17	narK	Thermus_brockianus_GE-1T_403	sequence1_403	-395163	-394813	reverse	-1	narK
+Thermus_brockianus_GE-1T	G17	narK	Thermus_brockianus_GE-1T_404	sequence1_404	-396140	-395148	reverse	-1	narK
+Thermus_brockianus_GE-1T	G17	narI	Thermus_brockianus_GE-1T_405	sequence1_405	-396821	-396144	reverse	-1	narI
+Thermus_brockianus_GE-1T	G17	narJ	Thermus_brockianus_GE-1T_406	sequence1_406	-397337	-396825	reverse	-1	narJ
+Thermus_brockianus_GE-1T	G17	narH	Thermus_brockianus_GE-1T_407	sequence1_407	-398882	-397347	reverse	-1	narH
+Thermus_brockianus_GE-1T	G17	narG	Thermus_brockianus_GE-1T_408	sequence1_408	-402485	-398895	reverse	-1	narG
+Thermus_brockianus_GE-1T	G17	Cytc	Thermus_brockianus_GE-1T_409	sequence1_409	-403276	-402488	reverse	-1	cytochrome c
+Thermus_brockianus_GE-1T	G17	GAF	Thermus_brockianus_GE-1T_410	sequence1_410	-403372	-405168	forward	1	GAF domain-containing protein
+Thermus_brockianus_GE-1T	G17	Crp/Fnr	Thermus_brockianus_GE-1T_411	sequence1_411	-405172	-405825	forward	1	Crp/Fnr family transcriptional regulator
+Thermus_caldifontis_YIM_73026T	G20	MFS transporter	Thermus_caldifontis_YIM_73026T_1150	sequence04_186	-182161	-180830	reverse	-1	MFS transporter
+Thermus_caldifontis_YIM_73026T	G20	narK	Thermus_caldifontis_YIM_73026T_1151	sequence04_187	-183486	-182158	reverse	-1	narK
+Thermus_caldifontis_YIM_73026T	G20	narI	Thermus_caldifontis_YIM_73026T_1152	sequence04_188	-184167	-183490	reverse	-1	narI
+Thermus_caldifontis_YIM_73026T	G20	narJ	Thermus_caldifontis_YIM_73026T_1153	sequence04_189	-184683	-184171	reverse	-1	narJ
+Thermus_caldifontis_YIM_73026T	G20	narH	Thermus_caldifontis_YIM_73026T_1154	sequence04_190	-186228	-184693	reverse	-1	narH
+Thermus_caldifontis_YIM_73026T	G20	narG	Thermus_caldifontis_YIM_73026T_1155	sequence04_191	-189831	-186241	reverse	-1	narG
+Thermus_caldifontis_YIM_73026T	G20	Cytc	Thermus_caldifontis_YIM_73026T_1156	sequence04_192	-190628	-189834	reverse	-1	Cytc
+Thermus_caldifontis_YIM_73026T	G20	GAF	Thermus_caldifontis_YIM_73026T_1157	sequence04_193	-190736	-192544	forward	1	GAF
+Thermus_caldifontis_YIM_73026T	G20	Crp/Fnr	Thermus_caldifontis_YIM_73026T_1158	sequence04_194	-192548	-193201	forward	1	Crp/Fnr family transcriptional regulator
+Thermus_caldilimi_YIM_78456T	G22	MFS transporter	Thermus_caldilimi_YIM_78456T_1054	sequence1_1054	-1027355	-1026024	reverse	-1	MFS transporter
+Thermus_caldilimi_YIM_78456T	G22	narK	Thermus_caldilimi_YIM_78456T_1055	sequence1_1055	-1028680	-1027349	reverse	-1	narK
+Thermus_caldilimi_YIM_78456T	G22	narI	Thermus_caldilimi_YIM_78456T_1056	sequence1_1056	-1029361	-1028684	reverse	-1	narI
+Thermus_caldilimi_YIM_78456T	G22	narJ	Thermus_caldilimi_YIM_78456T_1057	sequence1_1057	-1029877	-1029365	reverse	-1	narJ
+Thermus_caldilimi_YIM_78456T	G22	narH	Thermus_caldilimi_YIM_78456T_1058	sequence1_1058	-1031422	-1029887	reverse	-1	narH
+Thermus_caldilimi_YIM_78456T	G22	narG	Thermus_caldilimi_YIM_78456T_1059	sequence1_1059	-1035025	-1031435	reverse	-1	narG
+Thermus_caldilimi_YIM_78456T	G22	Cytc	Thermus_caldilimi_YIM_78456T_1060	sequence1_1060	-1035822	-1035028	reverse	-1	Cytc
+Thermus_caldilimi_YIM_78456T	G22	GAF	Thermus_caldilimi_YIM_78456T_1061	sequence1_1061	-1035919	-1037727	forward	1	GAF
+Thermus_caldilimi_YIM_78456T	G22	Crp/Fnr	Thermus_caldilimi_YIM_78456T_1062	sequence1_1062	-1037731	-1038384	forward	1	Crp/Fnr family transcriptional regulator
+Thermus_igniterrae_ATCC_700962T	G18	Crp/Fnr	Thermus_igniterrae_ATCC_700962T_415	sequence05_24	16809	16156	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_igniterrae_ATCC_700962T	G18	GAF	Thermus_igniterrae_ATCC_700962T_416	sequence05_25	18612	16813	reverse	-1	GAF
+Thermus_igniterrae_ATCC_700962T	G18	Cytc	Thermus_igniterrae_ATCC_700962T_417	sequence05_26	18708	19502	forward	1	Cytc
+Thermus_igniterrae_ATCC_700962T	G18	narG	Thermus_igniterrae_ATCC_700962T_418	sequence05_27	19505	23095	forward	1	narG
+Thermus_igniterrae_ATCC_700962T	G18	narH	Thermus_igniterrae_ATCC_700962T_419	sequence05_28	23106	24641	forward	1	narH
+Thermus_igniterrae_ATCC_700962T	G18	narJ	Thermus_igniterrae_ATCC_700962T_420	sequence05_29	24651	25163	forward	1	narJ
+Thermus_igniterrae_ATCC_700962T	G18	narI	Thermus_igniterrae_ATCC_700962T_421	sequence05_30	25167	25844	forward	1	narI
+Thermus_igniterrae_ATCC_700962T	G18	narK	Thermus_igniterrae_ATCC_700962T_422	sequence05_31	25848	27179	forward	1	narK
+Thermus_igniterrae_ATCC_700962T	G18	MFS transporter	Thermus_igniterrae_ATCC_700962T_423	sequence05_32	28504	27173	forward	1	MFS transporter
+Thermus_oshimai_DSM_12092T	G11	Crp/Fnr	Thermus_oshimai_DSM_12092T_1992	sequence09_40	36085	35417	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_oshimai_DSM_12092T	G11	GAF	Thermus_oshimai_DSM_12092T_1993	sequence09_41	36091	37884	reverse	-1	GAF
+Thermus_oshimai_DSM_12092T	G11	Cytc	Thermus_oshimai_DSM_12092T_1994	sequence09_42	37979	38761	forward	1	Cytc
+Thermus_oshimai_DSM_12092T	G11	narG	Thermus_oshimai_DSM_12092T_1995	sequence09_43	38764	42354	forward	1	narG
+Thermus_oshimai_DSM_12092T	G11	narH	Thermus_oshimai_DSM_12092T_1996	sequence09_44	42367	43902	forward	1	narH
+Thermus_oshimai_DSM_12092T	G11	narJ	Thermus_oshimai_DSM_12092T_1997	sequence09_45	43912	44415	forward	1	narJ
+Thermus_oshimai_DSM_12092T	G11	narI	Thermus_oshimai_DSM_12092T_1998	sequence09_46	44419	45096	forward	1	narI
+Thermus_oshimai_DSM_12092T	G11	narK	Thermus_oshimai_DSM_12092T_1999	sequence09_47	45100	46431	forward	1	narK
+Thermus_oshimai_DSM_12092T	G11	MFS transporter	Thermus_oshimai_DSM_12092T_2000	sequence09_48	46425	47756	forward	1	MFS transporter
+Thermus_parvatiensis_RLT	G16	Crp/Fnr	Thermus_parvatiensis_RLT_2458	sequence2_171	136631	135978	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_parvatiensis_RLT	G16	GAF	Thermus_parvatiensis_RLT_2459	sequence2_172	137637	136636	reverse	-1	GAF
+Thermus_parvatiensis_RLT	G16	Cytc	Thermus_parvatiensis_RLT_2460	sequence2_173	138534	139022	forward	1	cytochrome c
+Thermus_parvatiensis_RLT	G16	Cytc	Thermus_parvatiensis_RLT_2461	sequence2_174	139007	139324	forward	1	cytochrome c
+Thermus_parvatiensis_RLT	G16	narG	Thermus_parvatiensis_RLT_2462	sequence2_175	139327	142917	forward	1	narG
+Thermus_parvatiensis_RLT	G16	narH	Thermus_parvatiensis_RLT_2463	sequence2_176	142928	143275	forward	1	narH
+Thermus_scotoductus_SA-01T	G23	MFS transporter	Thermus_scotoductus_SA-01T_1708	sequence1_1708	-1655088	-1653757	reverse	-1	MFS transporter
+Thermus_scotoductus_SA-01T	G23	narK	Thermus_scotoductus_SA-01T_1709	sequence1_1709	-1656413	-1655082	reverse	-1	narK
+Thermus_scotoductus_SA-01T	G23	narI	Thermus_scotoductus_SA-01T_1710	sequence1_1710	-1657095	-1656418	reverse	-1	narI
+Thermus_scotoductus_SA-01T	G23	narJ	Thermus_scotoductus_SA-01T_1711	sequence1_1711	-1657611	-1657099	reverse	-1	narJ
+Thermus_scotoductus_SA-01T	G23	narH	Thermus_scotoductus_SA-01T_1712	sequence1_1712	-1659156	-1657621	reverse	-1	narH
+Thermus_scotoductus_SA-01T	G23	narG	Thermus_scotoductus_SA-01T_1713	sequence1_1713	-1662759	-1659169	reverse	-1	narG
+Thermus_scotoductus_SA-01T	G23	Cytc	Thermus_scotoductus_SA-01T_1714	sequence1_1714	-1663556	-1662762	reverse	-1	Cytc
+Thermus_scotoductus_SA-01T	G23	GAF	Thermus_scotoductus_SA-01T_1715	sequence1_1715	-1663653	-1665461	forward	1	GAF
+Thermus_scotoductus_SA-01T	G23	Crp/Fnr	Thermus_scotoductus_SA-01T_1716	sequence1_1716	-1665465	-1666118	forward	1	Crp/Fnr
+Thermus_tengchongensis_YIM_77401T	G19	Crp/Fnr	Thermus_tengchongensis_YIM_77401T_1295	sequence1_1295	1201455	1200802	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_tengchongensis_YIM_77401T	G19	GAF	Thermus_tengchongensis_YIM_77401T_1296	sequence1_1296	1203267	1201459	reverse	-1	GAF
+Thermus_tengchongensis_YIM_77401T	G19	Cytc	Thermus_tengchongensis_YIM_77401T_1297	sequence1_1297	1203364	1204158	forward	1	Cytc
+Thermus_tengchongensis_YIM_77401T	G19	narG	Thermus_tengchongensis_YIM_77401T_1298	sequence1_1298	1204161	1207751	forward	1	narG
+Thermus_tengchongensis_YIM_77401T	G19	narH	Thermus_tengchongensis_YIM_77401T_1299	sequence1_1299	1207767	1209302	forward	1	narH
+Thermus_tengchongensis_YIM_77401T	G19	narJ	Thermus_tengchongensis_YIM_77401T_1300	sequence1_1300	1209312	1209824	forward	1	narJ
+Thermus_tengchongensis_YIM_77401T	G19	narI	Thermus_tengchongensis_YIM_77401T_1301	sequence1_1301	1209828	1210505	forward	1	narI
+Thermus_tengchongensis_YIM_77401T	G19	narK	Thermus_tengchongensis_YIM_77401T_1302	sequence1_1302	1210509	1211840	forward	1	narK
+Thermus_tengchongensis_YIM_77401T	G19	MFS transporter	Thermus_tengchongensis_YIM_77401T_1303	sequence1_1303	1211834	1213165	forward	1	MFS transporter
+Thermus_thermamylovorans_CFH_72773T	G18	Crp/Fnr	Thermus_thermamylovorans_CFH_72773T_1564	sequence09_51	43837	43184	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_thermamylovorans_CFH_72773T	G18	GAF	Thermus_thermamylovorans_CFH_72773T_1565	sequence09_52	45640	43841	reverse	-1	GAF
+Thermus_thermamylovorans_CFH_72773T	G18	Cytc	Thermus_thermamylovorans_CFH_72773T_1566	sequence09_53	45736	46509	forward	1	cytochrome c
+Thermus_thermamylovorans_CFH_72773T	G18	narG	Thermus_thermamylovorans_CFH_72773T_1567	sequence09_54	46506	50096	forward	1	narG
+Thermus_thermamylovorans_CFH_72773T	G18	narH	Thermus_thermamylovorans_CFH_72773T_1568	sequence09_55	50109	51641	forward	1	narH
+Thermus_thermamylovorans_CFH_72773T	G18	narJ	Thermus_thermamylovorans_CFH_72773T_1569	sequence09_56	51652	52164	forward	1	narJ
+Thermus_thermamylovorans_CFH_72773T	G18	narI	Thermus_thermamylovorans_CFH_72773T_1570	sequence09_57	52168	52845	forward	1	narI
+Thermus_thermamylovorans_CFH_72773T	G18	narK	Thermus_thermamylovorans_CFH_72773T_1571	sequence09_58	52849	54180	forward	1	narK
+Thermus_thermamylovorans_CFH_72773T	G18	MFS transporter	Thermus_thermamylovorans_CFH_72773T_1572	sequence09_59	54177	54180	forward	1	MFS transporter
+Thermus_thermophilus_JL-18	G14	Crp/Fnr	Thermus_thermophilus_JL-18_2269	sequence2_269	246280	245627	reverse	-1	Crp/Fnr family transcriptional regulator
+Thermus_thermophilus_JL-18	G14	GAF	Thermus_thermophilus_JL-18_2270	sequence2_270	248090	246285	reverse	-1	GAF
+Thermus_thermophilus_JL-18	G14	Cytc	Thermus_thermophilus_JL-18_2271	sequence2_271	248186	248974	forward	1	Cytc
+Thermus_thermophilus_JL-18	G14	narG	Thermus_thermophilus_JL-18_2272	sequence2_272	248977	252567	forward	1	narG
+Thermus_thermophilus_JL-18	G14	narH	Thermus_thermophilus_JL-18_2273	sequence2_273	252579	254114	forward	1	narH
+Thermus_thermophilus_JL-18	G14	narJ	Thermus_thermophilus_JL-18_2274	sequence2_274	254124	254639	forward	1	narJ
+Thermus_thermophilus_JL-18	G14	narI	Thermus_thermophilus_JL-18_2275	sequence2_275	254644	255333	forward	1	narI
+Thermus_thermophilus_JL-18	G14	narK	Thermus_thermophilus_JL-18_2276	sequence2_276	255346	256665	forward	1	narK
+Thermus_thermophilus_SG0.5JP17-16	G15	narK	Thermus_thermophilus_SG0.5JP17-16_2217	sequence2_246	-235513	-234194	reverse	-1	narK
+Thermus_thermophilus_SG0.5JP17-16	G15	narI	Thermus_thermophilus_SG0.5JP17-16_2218	sequence2_247	-236215	-235526	reverse	-1	narI
+Thermus_thermophilus_SG0.5JP17-16	G15	narJ	Thermus_thermophilus_SG0.5JP17-16_2219	sequence2_248	-236734	-236219	reverse	-1	narJ
+Thermus_thermophilus_SG0.5JP17-16	G15	narH	Thermus_thermophilus_SG0.5JP17-16_2220	sequence2_249	-238279	-236744	reverse	-1	narH
+Thermus_thermophilus_SG0.5JP17-16	G15	narG	Thermus_thermophilus_SG0.5JP17-16_2221	sequence2_250	-241881	-238291	reverse	-1	narG
+Thermus_thermophilus_SG0.5JP17-16	G15	Cytc	Thermus_thermophilus_SG0.5JP17-16_2222	sequence2_251	-242672	-241884	reverse	-1	Cytc
+Thermus_thermophilus_SG0.5JP17-16	G15	GAF	Thermus_thermophilus_SG0.5JP17-16_2223	sequence2_252	-242768	-244573	forward	1	GAF
+Thermus_thermophilus_SG0.5JP17-16	G15	Crp/Fnr	Thermus_thermophilus_SG0.5JP17-16_2224	sequence2_253	-244578	-245234	forward	1	Crp/Fnr family transcriptional regulator
