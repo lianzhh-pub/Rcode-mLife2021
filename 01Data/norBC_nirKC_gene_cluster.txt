@@ -1,0 +1,119 @@
+molecule	abbre	gene	oldgene		start	end	strand	direction	description
+Calidithermus_chliarophilus_DSM_9957T	G8	Rrf2	Calidithermus_chliarophilus_DSM_9957T_1232	KE387023.1_1222	1314809	1314399	reverse	-1	Rrf2 family transcriptional regulator
+Calidithermus_chliarophilus_DSM_9957T	G8	nirK	Calidithermus_chliarophilus_DSM_9957T_1233	KE387023.1_1223	1314936	1316078	forward	1	nirK
+Calidithermus_chliarophilus_DSM_9957T	G8	hypothetical protein	Calidithermus_chliarophilus_DSM_9957T_1234	KE387023.1_1224	1316205	1317635	forward	1	dihydrolipoyl dehydrogenase
+Calidithermus_terrae_DSM_26712T	G7	hypothetical protein	Calidithermus_terrae_DSM_26712T_2525	QXDL01000033.1_23	-24035	-23211	reverse	-1	alpha/beta fold hydrolase
+Calidithermus_terrae_DSM_26712T	G7	nirK	Calidithermus_terrae_DSM_26712T_2526	QXDL01000033.1_24	-25136	-24204	reverse	-1	K00368
+Oceanithermus_desulfurans_DSM_15757T	G3	nrdR	Oceanithermus_desulfurans_DSM_15757T_1834	JACHEZ010000007.1_52	56532	56984	forward	1	transcriptional regulator NrdR
+Oceanithermus_desulfurans_DSM_15757T	G3	norC	Oceanithermus_desulfurans_DSM_15757T_1835	JACHEZ010000007.1_53	57154	57819	forward	1	K02305
+Oceanithermus_desulfurans_DSM_15757T	G3	norB	Oceanithermus_desulfurans_DSM_15757T_1836	JACHEZ010000007.1_54	57832	59265	forward	1	K04561
+Oceanithermus_desulfurans_DSM_15757T	G3	hypothetical protein	Oceanithermus_desulfurans_DSM_15757T_1837	JACHEZ010000007.1_55	59258	59581	forward	1	hypothetical protein
+Oceanithermus_desulfurans_DSM_15757T	G3	Cytc	Oceanithermus_desulfurans_DSM_15757T_1838	JACHEZ010000007.1_56	59591	60331	forward	1	cytochrome c
+Oceanithermus_desulfurans_DSM_15757T	G3	nirS	Oceanithermus_desulfurans_DSM_15757T_1839	JACHEZ010000007.1_57	60428	62047	forward	1	K15864
+Oceanithermus_desulfurans_DSM_15757T	G3	hypothetical protein	Oceanithermus_desulfurans_DSM_15757T_1840	JACHEZ010000007.1_58	62353	62123	reverse	-1	hypothetical protein
+Oceanithermus_desulfurans_DSM_15757T	G3	Crp/Fnr	Oceanithermus_desulfurans_DSM_15757T_1841	JACHEZ010000007.1_59	63241	62552	reverse	-1	Crp/Fnr family transcriptional regulator
+Oceanithermus_profundus_DSM_14977T	G2	Crp/Fnr	Oceanithermus_profundus_DSM_14977T_2126	CP002361.1_2126	-2171698	-2172387	forward	1	Crp/Fnr
+Oceanithermus_profundus_DSM_14977T	G2	hypothetical protein	Oceanithermus_profundus_DSM_14977T_2127	CP002361.1_2127	-2172389	-2172826	forward	1	hypothetical protein
+Oceanithermus_profundus_DSM_14977T	G2	nirS	Oceanithermus_profundus_DSM_14977T_2128	CP002361.1_2128	-2174524	-2172905	reverse	-1	K15864
+Oceanithermus_profundus_DSM_14977T	G2	Cytc	Oceanithermus_profundus_DSM_14977T_2129	CP002361.1_2129	-2175361	-2174621	reverse	-1	Cytc
+Oceanithermus_profundus_DSM_14977T	G2	hypothetical protein	Oceanithermus_profundus_DSM_14977T_2130	CP002361.1_2130	-2175694	-2175371	reverse	-1	hypothetical protein
+Oceanithermus_profundus_DSM_14977T	G2	norB	Oceanithermus_profundus_DSM_14977T_2131	CP002361.1_2131	-2177120	-2175687	reverse	-1	K04561
+Oceanithermus_profundus_DSM_14977T	G2	norC	Oceanithermus_profundus_DSM_14977T_2132	CP002361.1_2132	-2177798	-2177133	reverse	-1	K02305
+Oceanithermus_profundus_DSM_14977T	G2	nrdR	Oceanithermus_profundus_DSM_14977T_2133	CP002361.1_2133	-2178421	-2177969	reverse	-1	transcriptional regulator NrdR
+Thermus_amyloliquefaciens_YIM_77409T	G21	Cytc	Thermus_amyloliquefaciens_YIM_77409T_1407	sequence1_1407	-1363618	-1364109	forward	1	cytochrome P460 family protein
+Thermus_amyloliquefaciens_YIM_77409T	G21	MarR	Thermus_amyloliquefaciens_YIM_77409T_1408	sequence1_1408	-1364218	-1364781	forward	1	MarR family winged helix-turn-helix transcriptional regulator
+Thermus_amyloliquefaciens_YIM_77409T	G21	TIGR04053	Thermus_amyloliquefaciens_YIM_77409T_1409	sequence1_1409	-1365908	-1364778	reverse	-1	TIGR04053 family radical SAM/SPASM domain-containing protein
+Thermus_amyloliquefaciens_YIM_77409T	G21	nirS	Thermus_amyloliquefaciens_YIM_77409T_1410	sequence1_1410	-1367826	-1366216	reverse	-1	K15864
+Thermus_amyloliquefaciens_YIM_77409T	G21	hypothetical protein	Thermus_amyloliquefaciens_YIM_77409T_1411	sequence1_1411	-1368248	-1367952	reverse	-1	hypothetical protein
+Thermus_amyloliquefaciens_YIM_77409T	G21	norB	Thermus_amyloliquefaciens_YIM_77409T_1412	sequence1_1412	-1369671	-1368238	reverse	-1	K04561
+Thermus_amyloliquefaciens_YIM_77409T	G21	norC	Thermus_amyloliquefaciens_YIM_77409T_1413	sequence1_1413	-1370347	-1369682	reverse	-1	K02305
+Thermus_amyloliquefaciens_YIM_77409T	G21	Rrf2	Thermus_amyloliquefaciens_YIM_77409T_1414	sequence1_1414	-1370588	-1371013	forward	1	Rrf2 family transcriptional regulator
+Thermus_arciformis_CGMCC_1.6992T	G12	Rrf2	Thermus_arciformis_CGMCC_1.6992T_1359	sequence16_7	4331	3906	reverse	-1	Rrf2 family transcriptional regulator
+Thermus_arciformis_CGMCC_1.6992T	G12	norC	Thermus_arciformis_CGMCC_1.6992T_1360	sequence16_8	4539	5204	forward	1	K02305
+Thermus_arciformis_CGMCC_1.6992T	G12	norB	Thermus_arciformis_CGMCC_1.6992T_1361	sequence16_9	5215	6642	forward	1	K04561
+Thermus_arciformis_CGMCC_1.6992T	G12	hypothetical protein	Thermus_arciformis_CGMCC_1.6992T_1362	sequence16_10	6639	6935	forward	1	hypothetical protein
+Thermus_arciformis_CGMCC_1.6992T	G12	nirS	Thermus_arciformis_CGMCC_1.6992T_1363	sequence16_11	7084	8667	forward	1	K15864
+Thermus_arciformis_CGMCC_1.6992T	G12	TIGR04053	Thermus_arciformis_CGMCC_1.6992T_1364	sequence16_12	8749	9876	forward	1	TIGR04053
+Thermus_brockianus_GE-1T	G17	MarR	Thermus_brockianus_GE-1T_416	sequence1_416	-408902	-409264	forward	1	MarR
+Thermus_brockianus_GE-1T	G17	Cytc	Thermus_brockianus_GE-1T_417	sequence1_417	-409702	-409274	reverse	-1	Cytc
+Thermus_brockianus_GE-1T	G17	TIGR04053	Thermus_brockianus_GE-1T_418	sequence1_418	-410886	-409699	reverse	-1	MarR
+Thermus_brockianus_GE-1T	G17	nirK	Thermus_brockianus_GE-1T_419	sequence1_419	-412423	-411059	reverse	-1	K00368
+Thermus_brockianus_GE-1T	G17	YbaN	Thermus_brockianus_GE-1T_420	sequence1_420	-412596	-412979	forward	1	YbaN
+Thermus_caldifontis_YIM_73026T	G20	MarR	Thermus_caldifontis_YIM_73026T_1627	sequence11_7	-4453	-5019	forward	1	MarR
+Thermus_caldifontis_YIM_73026T	G20	TIGR04053	Thermus_caldifontis_YIM_73026T_1628	sequence11_8	-6146	-5016	reverse	-1	TIGR04053
+Thermus_caldifontis_YIM_73026T	G20	nirS	Thermus_caldifontis_YIM_73026T_1629	sequence11_9	-7911	-6304	reverse	-1	K15864
+Thermus_caldifontis_YIM_73026T	G20	hypothetical protein	Thermus_caldifontis_YIM_73026T_1630	sequence11_10	-8342	-8046	reverse	-1	hypothetical protein
+Thermus_caldifontis_YIM_73026T	G20	norB	Thermus_caldifontis_YIM_73026T_1631	sequence11_11	-9765	-8335	reverse	-1	K04561
+Thermus_caldifontis_YIM_73026T	G20	norC	Thermus_caldifontis_YIM_73026T_1632	sequence11_12	-10441	-9776	reverse	-1	K02305
+Thermus_caldifontis_YIM_73026T	G20	Rrf2	Thermus_caldifontis_YIM_73026T_1633	sequence11_13	-10672	-11097	forward	1	Rrf2 family transcriptional regulator
+Thermus_caldilimi_YIM_78456T	G22	MarR	Thermus_caldilimi_YIM_78456T_1077	sequence1_1077	-1048168	-1048734	forward	1	MarR
+Thermus_caldilimi_YIM_78456T	G22	TIGR04053	Thermus_caldilimi_YIM_78456T_1078	sequence1_1078	-1049532	-1048741	reverse	-1	TIGR04053
+Thermus_caldilimi_YIM_78456T	G22	TIGR04053	Thermus_caldilimi_YIM_78456T_1079	sequence1_1079	-1049864	-1049529	reverse	-1	TIGR04053
+Thermus_caldilimi_YIM_78456T	G22	nirS	Thermus_caldilimi_YIM_78456T_1080	sequence1_1080	-1051570	-1049960	reverse	-1	K15864
+Thermus_caldilimi_YIM_78456T	G22	hypothetical protein	Thermus_caldilimi_YIM_78456T_1081	sequence1_1081	-1051999	-1051703	reverse	-1	hypothetical protein
+Thermus_caldilimi_YIM_78456T	G22	norB	Thermus_caldilimi_YIM_78456T_1082	sequence1_1082	-1053422	-1051992	reverse	-1	K04561
+Thermus_caldilimi_YIM_78456T	G22	norC	Thermus_caldilimi_YIM_78456T_1083	sequence1_1083	-1054098	-1053433	reverse	-1	K02305
+Thermus_caldilimi_YIM_78456T	G22	YbaN	Thermus_caldilimi_YIM_78456T_1084	sequence1_1084	-1054334	-1054693	forward	1	YbaN
+Thermus_composti_JCM_19902T	G26	Cytc	Thermus_composti_JCM_19902T_1468	sequence16_16	-8287	-7856	reverse	-1	Cytc
+Thermus_composti_JCM_19902T	G27	TIGR04053	Thermus_composti_JCM_19902T_1469	sequence16_17	-9468	-8293	reverse	-1	TIGR04053
+Thermus_composti_JCM_19902T	G28	nirK	Thermus_composti_JCM_19902T_1470	sequence16_18	-11131	-9728	reverse	-1	K00368
+Thermus_composti_JCM_19902T	G29	YbaN	Thermus_composti_JCM_19902T_1471	sequence16_19	-11235	-11627	forward	1	YbaN
+Thermus_oshimai_DSM_12092T	G11	Rrf2	Thermus_oshimai_DSM_12092T_1978	sequence09_26	23180	22761	reverse	-1	Rrf2
+Thermus_oshimai_DSM_12092T	G11	norC	Thermus_oshimai_DSM_12092T_1979	sequence09_27	23304	23969	forward	1	K02305
+Thermus_oshimai_DSM_12092T	G11	norB	Thermus_oshimai_DSM_12092T_1980	sequence09_28	23982	25412	forward	1	K04561
+Thermus_oshimai_DSM_12092T	G11	hypothetical protein	Thermus_oshimai_DSM_12092T_1981	sequence09_29	25405	25701	forward	1	hypothetical protein
+Thermus_oshimai_DSM_12092T	G11	YbaN	Thermus_oshimai_DSM_12092T_1982	sequence09_30	26096	25719	reverse	-1	YbaN
+Thermus_oshimai_DSM_12092T	G11	nirK	Thermus_oshimai_DSM_12092T_1983	sequence09_31	26235	27593	forward	1	K00368
+Thermus_oshimai_DSM_12092T	G11	nirS	Thermus_oshimai_DSM_12092T_1984	sequence09_32	27709	29307	forward	1	K15864
+Thermus_oshimai_DSM_12092T	G11	TIGR04053	Thermus_oshimai_DSM_12092T_1985	sequence09_33	29391	30521	forward	1	TIGR04053
+Thermus_parvatiensis_RLT	G16	hypothetical protein	Thermus_parvatiensis_RLT_2443	sequence2_156	127684	128199	forward	1	hypothetical protein
+Thermus_parvatiensis_RLT	G16	nirS	Thermus_parvatiensis_RLT_2444	sequence2_157	128246	128908	forward	1	nirS
+Thermus_parvatiensis_RLT	G16	TIGR04053	Thermus_parvatiensis_RLT_2445	sequence2_158	128990	129223	forward	1	TIGR04053
+Thermus_parvatiensis_RLT	G16	TIGR04053	Thermus_parvatiensis_RLT_2446	sequence2_159	129196	130116	forward	1	TIGR04053
+Thermus_parvatiensis_RLT	G16	Cytc	Thermus_parvatiensis_RLT_2447	sequence2_160	130122	130553	forward	1	Cytc
+Thermus_parvatiensis_RLT	G16	MarR	Thermus_parvatiensis_RLT_2448	sequence2_161	130954	130550	reverse	-1	MarR
+Thermus_scotoductus_SA-01T	G23	TIGR04053	Thermus_scotoductus_SA-01T_1719	sequence1_1719	-1668224	-1667097	reverse	-1	TIGR04053
+Thermus_scotoductus_SA-01T	G23	nirS	Thermus_scotoductus_SA-01T_1720	sequence1_1720	-1669945	-1668320	reverse	-1	K15864
+Thermus_scotoductus_SA-01T	G23	hypothetical protein	Thermus_scotoductus_SA-01T_1721	sequence1_1721	-1670362	-1670066	reverse	-1	hypothetical protein
+Thermus_scotoductus_SA-01T	G23	norB	Thermus_scotoductus_SA-01T_1722	sequence1_1722	-1671785	-1670355	reverse	-1	K04561
+Thermus_scotoductus_SA-01T	G23	norC	Thermus_scotoductus_SA-01T_1723	sequence1_1723	-1672461	-1671796	reverse	-1	K02305
+Thermus_scotoductus_SA-01T	G23	nirK	Thermus_scotoductus_SA-01T_1724	sequence1_1724	-1673963	-1672608	reverse	-1	K00368
+Thermus_scotoductus_SA-01T	G23	YbaN	Thermus_scotoductus_SA-01T_1725	sequence1_1725	-1674121	-1674531	forward	1	YbaN
+Thermus_tengchongensis_YIM_77401T	G19	Rrf2	Thermus_tengchongensis_YIM_77401T_1279	sequence1_1279	1188943	1188518	reverse	-1	Rrf2
+Thermus_tengchongensis_YIM_77401T	G19	YbaN	Thermus_tengchongensis_YIM_77401T_1280	sequence1_1280	1189339	1188980	reverse	-1	YbaN
+Thermus_tengchongensis_YIM_77401T	G19	norC	Thermus_tengchongensis_YIM_77401T_1281	sequence1_1281	1189575	1190240	forward	1	norC
+Thermus_tengchongensis_YIM_77401T	G19	norB	Thermus_tengchongensis_YIM_77401T_1282	sequence1_1282	1190251	1191681	forward	1	norB
+Thermus_tengchongensis_YIM_77401T	G19	hypothetical protein	Thermus_tengchongensis_YIM_77401T_1283	sequence1_1283	1191674	1191970	forward	1	hypothetical protein
+Thermus_tengchongensis_YIM_77401T	G19	hypothetical protein	Thermus_tengchongensis_YIM_77401T_1284	sequence1_1284	1192986	1192141	reverse	-1	transposase
+Thermus_tengchongensis_YIM_77401T	G19	nirS	Thermus_tengchongensis_YIM_77401T_1285	sequence1_1285	1193067	1194632	forward	1	nirS
+Thermus_tengchongensis_YIM_77401T	G19	TIGR04053	Thermus_tengchongensis_YIM_77401T_1286	sequence1_1286	1194728	1195858	forward	1	TIGR04053
+Thermus_tengchongensis_YIM_77401T	G19	MarR	Thermus_tengchongensis_YIM_77401T_1287	sequence1_1287	1196421	1195855	reverse	-1	MarR
+Thermus_thermamylovorans_CFH_72773T	G18	hypothetical protein	Thermus_thermamylovorans_CFH_72773T_1554	sequence09_41	36095	36538	forward	1	hypothetical protein
+Thermus_thermamylovorans_CFH_72773T	G18	YbaN	Thermus_thermamylovorans_CFH_72773T_1555	sequence09_42	36889	36491	reverse	-1	YbaN
+Thermus_thermamylovorans_CFH_72773T	G18	nirS	Thermus_thermamylovorans_CFH_72773T_1556	sequence09_43	37018	38628	forward	1	nirS
+Thermus_thermamylovorans_CFH_72773T	G18	TIGR04053	Thermus_thermamylovorans_CFH_72773T_1557	sequence09_44	38724	39848	forward	1	TIGR04053
+Thermus_thermamylovorans_CFH_72773T	G18	MarR	Thermus_thermamylovorans_CFH_72773T_1558	sequence09_45	40376	39855	reverse	-1	MarR
+Thermus_thermophilus_JL-18	G14	Rrf2	Thermus_thermophilus_JL-18_2245	sequence2_245	229288	228866	reverse	-1	Rrf2
+Thermus_thermophilus_JL-18	G14	norC	Thermus_thermophilus_JL-18_2246	sequence2_246	229418	230083	forward	1	norC
+Thermus_thermophilus_JL-18	G14	norB	Thermus_thermophilus_JL-18_2247	sequence2_247	230094	231524	forward	1	norB
+Thermus_thermophilus_JL-18	G14	hypothetical protein	Thermus_thermophilus_JL-18_2248	sequence2_248	231517	231813	forward	1	hypothetical protein
+Thermus_thermophilus_JL-18	G14	nirS	Thermus_thermophilus_JL-18_2249	sequence2_249	231934	233544	forward	1	nirS
+Thermus_thermophilus_JL-18	G14	TIGR04053	Thermus_thermophilus_JL-18_2250	sequence2_250	233626	234753	forward	1	TIGR04053
+Thermus_thermophilus_JL-18	G14	Cytc	Thermus_thermophilus_JL-18_2251	sequence2_251	234759	235193	forward	1	Cytc
+Thermus_thermophilus_JL-18	G14	MarR	Thermus_thermophilus_JL-18_2252	sequence2_252	235732	235190	reverse	-1	MarR
+Thermus_thermophilus_SG0.5JP17-16	G15	MarR	Thermus_thermophilus_SG0.5JP17-16_2237	sequence2_266	-251020	-251421	forward	1	MarR
+Thermus_thermophilus_SG0.5JP17-16	G15	Cytc	Thermus_thermophilus_SG0.5JP17-16_2238	sequence2_267	-251852	-251418	reverse	-1	Cytc
+Thermus_thermophilus_SG0.5JP17-16	G15	TIGR04053	Thermus_thermophilus_SG0.5JP17-16_2239	sequence2_268	-252985	-251858	reverse	-1	TIGR04053
+Thermus_thermophilus_SG0.5JP17-16	G15	nirS	Thermus_thermophilus_SG0.5JP17-16_2240	sequence2_269	-254677	-253067	reverse	-1	nirS
+Thermus_thermophilus_SG0.5JP17-16	G15	hypothetical protein	Thermus_thermophilus_SG0.5JP17-16_2241	sequence2_270	-255092	-254796	reverse	-1	hypothetical protein
+Thermus_thermophilus_SG0.5JP17-16	G15	norB	Thermus_thermophilus_SG0.5JP17-16_2242	sequence2_271	-256515	-255085	reverse	-1	norB
+Thermus_thermophilus_SG0.5JP17-16	G15	norC	Thermus_thermophilus_SG0.5JP17-16_2243	sequence2_272	-257191	-256526	reverse	-1	norC
+Thermus_thermophilus_SG0.5JP17-16	G15	Rrf2	Thermus_thermophilus_SG0.5JP17-16_2244	sequence2_273	-257321	-257743	forward	1	Rrf2
+Thermus_antranikianii_DSM_12462T	G23	TIGR04053	Thermus_antranikianii_DSM_12462T_1264	sequence06_3	2360	3487	forward	1	TIGR04053
+Thermus_antranikianii_DSM_12462T	G23	nirS	Thermus_antranikianii_DSM_12462T_1263	sequence06_2	1422	2264	forward	1	K15864
+Thermus_antranikianii_DSM_12462T	G23	hypothetical protein	Thermus_antranikianii_DSM_12462T_1262	sequence06_1	1098	1403	forward	1	transposase
+Thermus_antranikianii_DSM_12462T	G23	hypothetical protein	Thermus_antranikianii_DSM_12462T_1144	sequence05_0	498	798	reverse	-1	D
+Thermus_antranikianii_DSM_12462T	G23	hypothetical protein	Thermus_antranikianii_DSM_12462T_1145	sequence05_1	-272	-2	reverse	-1	transposase
+Thermus_antranikianii_DSM_12462T	G23	nirS	Thermus_antranikianii_DSM_12462T_1146	sequence05_2	-1123	-320	reverse	-1	K15864
+Thermus_antranikianii_DSM_12462T	G23	nirK	Thermus_antranikianii_DSM_12462T_1147	sequence05_3	-2787	-1432	reverse	-1	K00368
+Thermus_antranikianii_DSM_12462T	G23	YbaN	Thermus_antranikianii_DSM_12462T_1148	sequence05_4	-2961	-3359	forward	1	YbaN family protein
